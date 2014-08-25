@@ -35,6 +35,8 @@ Applications:
 Examples
 --------
 
+![alt tag](https://raw.githubusercontent.com/lateralblast/shuji/master/shuttle.png)
+
 Existing hosts entries:
 
 ```
